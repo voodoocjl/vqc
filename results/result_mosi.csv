@@ -1,0 +1,1 @@
+n_ansatz_layers,n_fusion_layers,linear_lr,vqc_lr,batch_size,min_valid_mae,test_mae,test_corr,test_multi_acc,test_binary_acc,test_f1
